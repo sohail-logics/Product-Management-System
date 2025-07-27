@@ -26,7 +26,8 @@ This is a beginner-friendly C++ console application for managing products. It al
 ---
 
 ## 💻 Sample Output
-<img width="1157" height="550" alt="image" src="https://github.com/user-attachments/assets/b57916d1-bc16-4901-abab-eadeef5916bd" />
+<img width="1045" height="607" alt="image" src="https://github.com/user-attachments/assets/a5384f9b-3a0d-4f9a-b4aa-b6a51f8dcdc8" />
+
 ---
 
 ## 🛠 Tech Stack
